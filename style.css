@@ -1,0 +1,12 @@
+.sa-text-justify {
+    text-align: justify;
+}
+
+.sa-reaction .dropdown-menu.show{
+    display: flex;
+}
+
+.friend-avatar {
+    width: 40px;
+
+}
